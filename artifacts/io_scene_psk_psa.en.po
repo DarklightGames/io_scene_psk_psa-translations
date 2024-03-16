@@ -1,0 +1,543 @@
+# msgid ""
+# msgstr ""
+# "Language: en\n"
+# "MIME-Version: 1.0\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Content-Transfer-Encoding: 8bit\n"
+#
+msgid ""
+msgstr ""
+
+msgid ""
+"Enforce that bone names must only contain letters, numbers, spaces, hyphens and underscores.\n"
+"\n"
+"Depending on the engine, improper bone names might not be referenced correctly by scripts"
+msgstr ""
+"Enforce that bone names must only contain letters, numbers, spaces, hyphens and underscores.\n"
+"\n"
+"Depending on the engine, improper bone names might not be referenced correctly by scripts"
+
+msgid "Extra UVs"
+msgstr "Extra UVs"
+
+msgid "The sequence frame rate matches the original frame rate"
+msgstr "The sequence frame rate matches the original frame rate"
+
+msgid "The selected object must be an armature"
+msgstr "The selected object must be an armature"
+
+msgid "Bone Collections"
+msgstr "Bone Collections"
+
+msgid "Select By Text List"
+msgstr "Select By Text List"
+
+msgid ""
+"Bone names restrictions will be enforced. Note that bone names without "
+"properly formatted names may not be able to be referenced by some versions "
+"of the Unreal Engine"
+msgstr ""
+"Bone names restrictions will be enforced. Note that bone names without "
+"properly formatted names may not be able to be referenced by some versions "
+"of the Unreal Engine"
+
+msgid "Import shape keys, if available"
+msgstr "Import shape keys, if available"
+
+msgid "The frame rate of the exported sequence"
+msgstr "The frame rate of the exported sequence"
+
+msgid "Import Shape Keys"
+msgstr "Import Shape Keys"
+
+msgid "Discarded {count} invalid face(s)"
+msgstr "Discarded {count} invalid face(s)"
+
+msgid ""
+"Additional data will be written to the properties of the Action (e.g., frame"
+" rate)"
+msgstr ""
+"Additional data will be written to the properties of the Action (e.g., frame"
+" rate)"
+
+msgid "Deselect All"
+msgstr "Deselect All"
+
+msgid "Source"
+msgstr "Source"
+
+msgid "The sequence is resampled to a custom frame rate"
+msgstr "The sequence is resampled to a custom frame rate"
+
+msgid ""
+"Bone name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+msgstr ""
+"Bone name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+
+msgid "Unreal PSK (.psk)"
+msgstr "Unreal PSK (.psk)"
+
+msgid "Raw Mesh Data"
+msgstr "Raw Mesh Data"
+
+msgid ""
+"The method by which bones from the PSA file are mapped to the bones of the "
+"armature"
+msgstr ""
+"The method by which bones from the PSA file are mapped to the bones of the "
+"armature"
+
+msgid "Reversed"
+msgstr "Reversed"
+
+msgid ""
+"When enabled, the root bone will be transformed as it appears in the scene.\n"
+"\n"
+"You might want to disable this if you are exporting an animation for an armature that is attached to another object, such as a weapon or a shield"
+msgstr ""
+"When enabled, the root bone will be transformed as it appears in the scene.\n"
+"\n"
+"You might want to disable this if you are exporting an animation for an armature that is attached to another object, such as a weapon or a shield"
+
+msgid "Regular Expression"
+msgstr "Regular Expression"
+
+msgid "Deselect all visible sequences"
+msgstr "Deselect all visible sequences"
+
+msgid ""
+"Assign each imported action a fake user so that the data block is always "
+"saved"
+msgstr ""
+"Assign each imported action a fake user so that the data block is always "
+"saved"
+
+msgid "Import vertex normals, if available"
+msgstr "Import vertex normals, if available"
+
+msgid "Each sequence name should be on a new line"
+msgstr "Each sequence name should be on a new line"
+
+msgid "Unlit"
+msgstr "Unlit"
+
+msgid "Export mesh and armature to PSK"
+msgstr "Export mesh and armature to PSK"
+
+msgid ""
+"Only bones belonging to the selected bone collections and their ancestors "
+"will be exported"
+msgstr ""
+"Only bones belonging to the selected bone collections and their ancestors "
+"will be exported"
+
+msgid ""
+"All selected meshes must have the same armature modifier, encountered "
+"{count} ({names})"
+msgstr ""
+"All selected meshes must have the same armature modifier, encountered "
+"{count} ({names})"
+
+msgid "Metadata"
+msgstr "Metadata"
+
+msgid "Filter by Name"
+msgstr "Filter by Name"
+
+msgid "No sequences selected"
+msgstr "No sequences selected"
+
+msgid "Enforce Bone Name Restrictions"
+msgstr "Enforce Bone Name Restrictions"
+
+msgid "Vertex Colors"
+msgstr "Vertex Colors"
+
+msgid "Sequences will be exported using actions"
+msgstr "Sequences will be exported using actions"
+
+msgid "Unrecognized wedge format"
+msgstr "Unrecognized wedge format"
+
+msgid "Selected {count} sequence(s)"
+msgstr "Selected {count} sequence(s)"
+
+msgid "PSK imported ({name})"
+msgstr "PSK imported ({name})"
+
+msgid "At least one mesh must be selected"
+msgstr "At least one mesh must be selected"
+
+msgid "Keyframe Quota"
+msgstr "Keyframe Quota"
+
+msgid "Only show items matching this name (use '*' as wildcard)"
+msgstr "Only show items matching this name (use '*' as wildcard)"
+
+msgid "Export actions to PSA"
+msgstr "Export actions to PSA"
+
+msgid "Load a PSK file"
+msgstr "Load a PSK file"
+
+msgid "Import the selected animations into the scene as actions"
+msgstr "Import the selected animations into the scene as actions"
+
+msgid "Vertex Normals"
+msgstr "Vertex Normals"
+
+msgid "Only Show Selected"
+msgstr "Only Show Selected"
+
+msgid "NLA Track Index"
+msgstr "NLA Track Index"
+
+msgid "The source vertex color space"
+msgstr "The source vertex color space"
+
+msgid ""
+"Sequences are delineated by the start & end times of strips on the selected "
+"NLA track"
+msgstr ""
+"Sequences are delineated by the start & end times of strips on the selected "
+"NLA track"
+
+msgid "Custom FPS"
+msgstr "Custom FPS"
+
+msgid ""
+"Sequence name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+msgstr ""
+"Sequence name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+
+msgid "PSK imported with {count} warning(s)"
+msgstr "PSK imported with {count} warning(s)"
+
+msgid "NLA Track"
+msgstr "NLA Track"
+
+msgid "Translucent"
+msgstr "Translucent"
+
+msgid "Sequences"
+msgstr "Sequences"
+
+msgid "Import Vertex Normals"
+msgstr "Import Vertex Normals"
+
+msgid "Invert filtering (show hidden items, and vice versa)"
+msgstr "Invert filtering (show hidden items, and vice versa)"
+
+msgid "Action Metadata"
+msgstr "Action Metadata"
+
+msgid "Select sequences by name from text list"
+msgstr "Select sequences by name from text list"
+
+msgid "Move the selected material up one slot"
+msgstr "Move the selected material up one slot"
+
+msgid "File path used for importing the PSA file"
+msgstr "File path used for importing the PSA file"
+
+msgid "No actions were selected for export"
+msgstr "No actions were selected for export"
+
+msgid "Fake User"
+msgstr "Fake User"
+
+msgid "No timeline markers were selected for export"
+msgstr "No timeline markers were selected for export"
+
+msgid "The active object must be an armature"
+msgstr "The active object must be an armature"
+
+msgid "Filter using regular expressions"
+msgstr "Filter using regular expressions"
+
+msgid "Context"
+msgstr "Context"
+
+msgid "Export"
+msgstr "Export"
+
+msgid ""
+"Stash each imported action as a strip on a new non-contributing NLA track"
+msgstr ""
+"Stash each imported action as a strip on a new non-contributing NLA track"
+
+msgid "File path used for exporting the PSK file"
+msgstr "File path used for exporting the PSK file"
+
+msgid "Selected object must be an Armature"
+msgstr "Selected object must be an Armature"
+
+msgid "Show actions that belong to an asset library"
+msgstr "Show actions that belong to an asset library"
+
+msgid "Sequence"
+msgstr "Sequence"
+
+msgid "Case Insensitive"
+msgstr "Case Insensitive"
+
+msgid "PSK export successful"
+msgstr "PSK export successful"
+
+msgid "Triangle Bit Flags"
+msgstr "Triangle Bit Flags"
+
+msgid "Failed to read PSA config file: {error}"
+msgstr "Failed to read PSA config file: {error}"
+
+msgid "Override Animation Data"
+msgstr "Override Animation Data"
+
+msgid "PSK/PSA Import/Export (.psk/.psa)"
+msgstr "PSK/PSA Import/Export (.psk/.psa)"
+
+msgid "Select a PSA file"
+msgstr "Select a PSA file"
+
+msgid "Prefix Action Name"
+msgstr "Prefix Action Name"
+
+msgid "No NLA track strips were selected for export"
+msgstr "No NLA track strips were selected for export"
+
+msgid "NLA Track Strips"
+msgstr "NLA Track Strips"
+
+msgid "All bones will be exported"
+msgstr "All bones will be exported"
+
+msgid "The frame rate to which the imported sequences will be resampled to"
+msgstr "The frame rate to which the imported sequences will be resampled to"
+
+msgid "Normal Two-Sided"
+msgstr "Normal Two-Sided"
+
+msgid "Select all bone collections"
+msgstr "Select all bone collections"
+
+msgid "Import Extra UVs"
+msgstr "Import Extra UVs"
+
+msgid "PSK/PSA Importer/Exporter"
+msgstr "PSK/PSA Importer/Exporter"
+
+msgid "File Path"
+msgstr "File Path"
+
+msgid "Nothing to import"
+msgstr "Nothing to import"
+
+msgid "No modifiers will be evaluated as part of the exported mesh"
+msgstr "No modifiers will be evaluated as part of the exported mesh"
+
+msgid "An armature object must be supplied"
+msgstr "An armature object must be supplied"
+
+msgid "RemoveTracks"
+msgstr "RemoveTracks"
+
+msgid "PSA Export"
+msgstr "PSA Export"
+
+msgid "Flags"
+msgstr "Flags"
+
+msgid "Materials"
+msgstr "Materials"
+
+msgid "Show reversed sequences"
+msgstr "Show reversed sequences"
+
+msgid "Use Config File"
+msgstr "Use Config File"
+
+msgid "At least one bone must be marked for export"
+msgstr "At least one bone must be marked for export"
+
+msgid "The minimum number of keyframes to be exported"
+msgstr "The minimum number of keyframes to be exported"
+
+msgid "Exact"
+msgstr "Exact"
+
+msgid ""
+"Use the animation data from a different object instead of the selected "
+"object"
+msgstr ""
+"Use the animation data from a different object instead of the selected "
+"object"
+
+msgid "Select all visible sequences"
+msgstr "Select all visible sequences"
+
+msgid "File path used for exporting the PSA file"
+msgstr "File path used for exporting the PSA file"
+
+msgid "Import vertex colors, if available"
+msgstr "Import vertex colors, if available"
+
+msgid "Root Motion"
+msgstr "Root Motion"
+
+msgid "No Smooth"
+msgstr "No Smooth"
+
+msgid "An armature must be selected"
+msgstr "An armature must be selected"
+
+msgid "FPS Source"
+msgstr "FPS Source"
+
+msgid "Material slot cannot be empty (index {index})"
+msgstr "Material slot cannot be empty (index {index})"
+
+msgid ""
+"The frame rate will be determined by action's FPS property found in the PSA Export panel.\n"
+"\n"
+"If the Sequence Source is Timeline Markers, the lowest value of all contributing actions will be used"
+msgstr ""
+"The frame rate will be determined by action's FPS property found in the PSA Export panel.\n"
+"\n"
+"If the Sequence Source is Timeline Markers, the lowest value of all contributing actions will be used"
+
+msgid "Import extra UVs, if available"
+msgstr "Import extra UVs, if available"
+
+msgid ""
+"Material name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+msgstr ""
+"Material name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+
+msgid "The sequence is resampled to the frame rate of the scene"
+msgstr "The sequence is resampled to the frame rate of the scene"
+
+msgid ""
+"Use the .config file that is sometimes generated when the PSA file is "
+"exported from UEViewer. This file contains options that can be used to "
+"filter out certain bones tracks from the imported actions"
+msgstr ""
+"Use the .config file that is sometimes generated when the PSA file is "
+"exported from UEViewer. This file contains options that can be used to "
+"filter out certain bones tracks from the imported actions"
+
+msgid "Import Vertex Colors"
+msgstr "Import Vertex Colors"
+
+msgid "Modulate"
+msgstr "Modulate"
+
+msgid "Select All"
+msgstr "Select All"
+
+msgid "Move the selected material down one slot"
+msgstr "Move the selected material down one slot"
+
+msgid "PSK Material"
+msgstr "PSK Material"
+
+msgid "Vertex Color Space"
+msgstr "Vertex Color Space"
+
+msgid "Convert to Samples"
+msgstr "Convert to Samples"
+
+msgid "Bone Name Mapping"
+msgstr "Bone Name Mapping"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Write"
+msgstr "Write"
+
+msgid ""
+"Convert keyframes to read-only samples. Recommended if you do not plan on "
+"editing the actions directly"
+msgstr ""
+"Convert keyframes to read-only samples. Recommended if you do not plan on "
+"editing the actions directly"
+
+msgid "No bones available for export"
+msgstr "No bones available for export"
+
+msgid "Bones"
+msgstr "Bones"
+
+msgid "Shape Keys"
+msgstr "Shape Keys"
+
+msgid "sRGBA"
+msgstr "sRGBA"
+
+msgid "Compression Ratio"
+msgstr "Compression Ratio"
+
+msgid "No animation data for object \"{name}\""
+msgstr "No animation data for object \"{name}\""
+
+msgid "Unreal PSK (.psk/.pskx)"
+msgstr "Unreal PSK (.psk/.pskx)"
+
+msgid "Bone Filter"
+msgstr "Bone Filter"
+
+msgid ""
+"Bones names must match, ignoring case (e.g., the PSA bone 'aBcDeF' can be "
+"mapped to the armature bone 'ABCDEF')"
+msgstr ""
+"Bones names must match, ignoring case (e.g., the PSA bone 'aBcDeF' can be "
+"mapped to the armature bone 'ABCDEF')"
+
+msgid "No text block selected"
+msgstr "No text block selected"
+
+msgid ""
+"The keyframe sampling ratio of the exported sequence.\n"
+"\n"
+"A compression ratio of 1.0 will export all frames, while a compression ratio of 0.5 will export half of the frames"
+msgstr ""
+"The keyframe sampling ratio of the exported sequence.\n"
+"\n"
+"A compression ratio of 1.0 will export all frames, while a compression ratio of 0.5 will export half of the frames"
+
+msgid "Deselect all bone collections"
+msgstr "Deselect all bone collections"
+
+msgid "Triangle Type"
+msgstr "Triangle Type"
+
+msgid "Unreal PSA (.psa)"
+msgstr "Unreal PSA (.psa)"
+
+msgid "Only show selected sequences"
+msgstr "Only show selected sequences"
+
+msgid "Bone Length"
+msgstr "Bone Length"
+
+msgid ""
+"If an action with a matching name already exists, the existing action will "
+"have it's data overwritten instead of a new action being created"
+msgstr ""
+"If an action with a matching name already exists, the existing action will "
+"have it's data overwritten instead of a new action being created"
+
+msgid "PSA export successful"
+msgstr "PSA export successful"
+
+msgid "Sequences are delineated by scene timeline markers"
+msgstr "Sequences are delineated by scene timeline markers"
+
+msgid "Bone names must match exactly"
+msgstr "Bone names must match exactly"

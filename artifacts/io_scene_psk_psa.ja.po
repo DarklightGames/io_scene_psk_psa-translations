@@ -1,2 +1,540 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2024-03-16 00:19+0000\n"
+"Last-Translator: AWS <noreply-mt-aws@weblate.org>\n"
+"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
+"io_scene_psk_psa/io_scene_psk_psa-po/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "NLA Track Index"
+msgstr "NLA トラックインデックス"
+
+msgid "PSA export successful"
+msgstr "PSA のエクスポートが成功しました"
+
+msgid "PSK export successful"
+msgstr "PSK のエクスポートが成功しました"
+
+msgid "Bone Length"
+msgstr "ボーンの長さ"
+
+msgid "Unreal PSK (.psk)"
+msgstr "アンリアルPSK (.psk)"
+
+msgid "The minimum number of keyframes to be exported"
+msgstr "エクスポートするキーフレームの最小数"
+
+msgid "The sequence frame rate matches the original frame rate"
+msgstr "シーケンスのフレームレートは元のフレームレートと一致します"
+
+msgid "No Smooth"
+msgstr "スムーズなし"
+
+msgid "File Path"
+msgstr "ファイルパス"
+
+msgid "Export actions to PSA"
+msgstr "アクションを PSA にエクスポート"
+
+msgid "Write"
+msgstr "書き込み"
+
+msgid "File path used for exporting the PSK file"
+msgstr "PSK ファイルのエクスポートに使用するファイルパス"
+
+msgid "NLA Track"
+msgstr "NLA トラック"
+
+msgid "PSK Material"
+msgstr "PSK マテリアル"
+
+msgid "Vertex Normals"
+msgstr "頂点法線"
+
+msgid "Import shape keys, if available"
+msgstr "シェイプキーをインポートする (可能な場合)"
+
+msgid "No NLA track strips were selected for export"
+msgstr "エクスポート対象の NLA トラックストリップが選択されていません"
+
+msgid "PSK/PSA Import/Export (.psk/.psa)"
+msgstr "PSK/PSA インポート/エクスポート (.psk/.psa)"
+
+msgid ""
+"Use the .config file that is sometimes generated when the PSA file is "
+"exported from UEViewer. This file contains options that can be used to "
+"filter out certain bones tracks from the imported actions"
+msgstr ""
+"PSA ファイルを UEViewer "
+"からエクスポートしたときに生成されることがある.config ファイルを使用してくだ"
+"さい。このファイルには、インポートしたアクションから特定のボーントラックを除"
+"外するためのオプションが含まれています。"
+
+msgid "Unlit"
+msgstr "明かりなし"
+
+msgid "Export mesh and armature to PSK"
+msgstr "メッシュとアーマチュアを PSK にエクスポート"
+
+msgid "FPS Source"
+msgstr "FPS ソース"
+
+msgid "Bone Collections"
+msgstr "ボーンコレクション"
+
+msgid "RemoveTracks"
+msgstr "[トラックを削除]"
+
+msgid "Enforce Bone Name Restrictions"
+msgstr "ボーン名制限を強制"
+
+msgid "PSK imported with {count} warning(s)"
+msgstr "PSK が {count} という警告とともにインポートされました"
+
+msgid "Select sequences by name from text list"
+msgstr "テキストリストから名前でシーケンスを選択"
+
+msgid ""
+"Bone names restrictions will be enforced. Note that bone names without "
+"properly formatted names may not be able to be referenced by some versions "
+"of the Unreal Engine"
+msgstr ""
+"ボーン名の制限が適用されます。ボーン名が正しくフォーマットされていないと、"
+"Unreal Engine "
+"のバージョンによっては参照できない場合があることに注意してください。"
+
+msgid "Triangle Bit Flags"
+msgstr "トライアングルビットフラグ"
+
+msgid "Sequences"
+msgstr "シーケンス"
+
+msgid ""
+"The method by which bones from the PSA file are mapped to the bones of the "
+"armature"
+msgstr "PSA ファイルのボーンをアーマチュアのボーンにマッピングする方法"
+
+msgid "Normal Two-Sided"
+msgstr "ノーマル両面"
+
+msgid "Use Config File"
+msgstr "設定ファイルを使用"
+
+msgid "Show reversed sequences"
+msgstr "逆のシーケンスを表示"
+
+msgid "Import extra UVs, if available"
+msgstr "追加の UV (可能な場合) をインポートする"
+
+msgid "Case Insensitive"
+msgstr "大文字と小文字を区別しない"
+
+msgid "The sequence is resampled to the frame rate of the scene"
+msgstr "シーケンスはシーンのフレームレートに合わせてリサンプリングされます"
+
+msgid "Unreal PSA (.psa)"
+msgstr "アンリアルスパ (.psa)"
+
+msgid "Vertex Colors"
+msgstr "頂点カラー"
+
+msgid "No animation data for object \"{name}\""
+msgstr "オブジェクト「{name}」のアニメーションデータはありません"
+
+msgid "Unreal PSK (.psk/.pskx)"
+msgstr "アンリアルPSK (.psk/.pskx)"
+
+msgid "Selected object must be an Armature"
+msgstr "選択したオブジェクトはアーマチュアでなければなりません"
+
+msgid ""
+"If an action with a matching name already exists, the existing action will "
+"have it's data overwritten instead of a new action being created"
+msgstr "一致する名前のアクションが既に存在する場合、新しいアクションが作成されるので"
+"はなく、既存のアクションのデータが上書きされます"
+
+msgid "Select all bone collections"
+msgstr "すべてのボーンコレクションを選択"
+
+msgid "An armature object must be supplied"
+msgstr "アーマチュアオブジェクトを指定する必要があります"
+
+msgid "Only show selected sequences"
+msgstr "選択したシーケンスのみを表示"
+
+msgid "The selected object must be an armature"
+msgstr "選択したオブジェクトはアーマチュアでなければなりません"
+
+msgid "An armature must be selected"
+msgstr "アーマチュアを選択する必要があります"
+
+msgid "Only show items matching this name (use '*' as wildcard)"
+msgstr "この名前に一致するアイテムのみを表示 (ワイルドカードとして「*」を使用)"
+
+msgid "No modifiers will be evaluated as part of the exported mesh"
+msgstr "エクスポートされたメッシュの一部として評価されるモディファイヤはありません"
+
+msgid "Move the selected material down one slot"
+msgstr "選択したマテリアルを 1 スロット下に移動"
+
+msgid "sRGBA"
+msgstr "sRGBA"
+
+msgid ""
+"Convert keyframes to read-only samples. Recommended if you do not plan on "
+"editing the actions directly"
+msgstr "キーフレームを読み取り専用サンプルに変換します。アクションを直接編集する予定"
+"がない場合におすすめです。"
+
+msgid "Exact"
+msgstr "正確"
+
+msgid "The frame rate of the exported sequence"
+msgstr "エクスポートされたシーケンスのフレームレート"
+
+msgid "The source vertex color space"
+msgstr "ソース頂点カラースペース"
+
+msgid "PSK imported ({name})"
+msgstr "PSK がインポートされました ({name})"
+
+msgid "Convert to Samples"
+msgstr "サンプルに変換"
+
+msgid "Source"
+msgstr "[ソース]"
+
+msgid "Import vertex normals, if available"
+msgstr "頂点法線 (可能な場合) をインポートする"
+
+msgid "The frame rate to which the imported sequences will be resampled to"
+msgstr "インポートしたシーケンスをリサンプリングするときのフレームレート"
+
+msgid "Metadata"
+msgstr "メタデータ"
+
+msgid ""
+"Stash each imported action as a strip on a new non-contributing NLA track"
+msgstr "インポートした各アクションを、コントリビューションされていない新しい NLA "
+"トラックにストリップとして保存する"
+
+msgid "Prefix Action Name"
+msgstr "プレフィックスアクション名"
+
+msgid "Bones"
+msgstr "ボーンズ"
+
+msgid "Import vertex colors, if available"
+msgstr "頂点カラーをインポート (可能な場合)"
+
+msgid "Custom FPS"
+msgstr "カスタム FPS"
+
+msgid "PSK/PSA Importer/Exporter"
+msgstr "PSK/PSA インポーター/エクスポーター"
+
+msgid ""
+"Material name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+msgstr "マテリアル名「{name}」には、Windows-1252 "
+"コードページではエンコードできない文字が含まれています"
+
+msgid ""
+"Additional data will be written to the properties of the Action (e.g., frame"
+" rate)"
+msgstr "アクションのプロパティに追加データが書き込まれます (フレームレートなど)"
+
+msgid "Select all visible sequences"
+msgstr "表示されているシーケンスをすべて選択"
+
+msgid "Unrecognized wedge format"
+msgstr "認識されないウェッジフォーマット"
+
+msgid "Show actions that belong to an asset library"
+msgstr "アセットライブラリに属するアクションを表示"
+
+msgid "At least one bone must be marked for export"
+msgstr "少なくとも 1 つのボーンをエクスポート対象としてマークする必要があります"
+
+msgid "Reversed"
+msgstr "逆転しました"
+
+msgid "Move the selected material up one slot"
+msgstr "選択したマテリアルを 1 つ上のスロットに移動"
+
+msgid "NLA Track Strips"
+msgstr "NLA トラックストリップ"
+
+msgid "Selected {count} sequence(s)"
+msgstr "選択した {count} シーケンス"
+
+msgid ""
+"All selected meshes must have the same armature modifier, encountered "
+"{count} ({names})"
+msgstr "選択したすべてのメッシュには同じアーマチュア修飾子が必要です。"
+"検出されたアーマチュア修飾子は {count} ({names})"
+
+msgid ""
+"The frame rate will be determined by action's FPS property found in the PSA Export panel.\n"
+"\n"
+"If the Sequence Source is Timeline Markers, the lowest value of all contributing actions will be used"
+msgstr ""
+"フレームレートは、PSA Export パネルにあるアクションの FPS "
+"プロパティによって決まります。\n"
+"\n"
+"シーケンスソースがタイムラインマーカーの場合、関連するすべてのアクションのう"
+"ち最も低い値が使用されます。"
+
+msgid "Translucent"
+msgstr "半透明"
+
+msgid "Raw Mesh Data"
+msgstr "未加工メッシュデータ"
+
+msgid "Shape Keys"
+msgstr "シェイプキー"
+
+msgid "Sequence"
+msgstr "シーケンス"
+
+msgid "Bone Name Mapping"
+msgstr "ボーン名マッピング"
+
+msgid "PSA Export"
+msgstr "PSA エクスポート"
+
+msgid "Import Extra UVs"
+msgstr "追加の UV をインポート"
+
+msgid "Override Animation Data"
+msgstr "アニメーションデータをオーバーライドする"
+
+msgid "Bone Filter"
+msgstr "ボーンフィルター"
+
+msgid "Only Show Selected"
+msgstr "選択したものだけを表示"
+
+msgid "Action Metadata"
+msgstr "アクションメタデータ"
+
+msgid ""
+"Bone name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+msgstr "ボーン名「{name}」には、Windows-1252 "
+"コードページではエンコードできない文字が含まれています"
+
+msgid "Nothing to import"
+msgstr "インポートするものはありません"
+
+msgid "Failed to read PSA config file: {error}"
+msgstr "PSA 構成ファイルを読み込めませんでした:{error}"
+
+msgid "Sequences are delineated by scene timeline markers"
+msgstr "シーケンスはシーンのタイムラインマーカーによって描かれます"
+
+msgid "Select a PSA file"
+msgstr "PSA ファイルを選択"
+
+msgid "Regular Expression"
+msgstr "正規表現"
+
+msgid "Discarded {count} invalid face(s)"
+msgstr "{count} 個の無効なフェースが廃棄されました"
+
+msgid "File path used for exporting the PSA file"
+msgstr "PSA ファイルのエクスポートに使用するファイルパス"
+
+msgid "All bones will be exported"
+msgstr "すべてのボーンがエクスポートされます"
+
+msgid "Flags"
+msgstr "国旗"
+
+msgid ""
+"Sequence name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+msgstr "シーケンス名「{name}」には、Windows-1252 "
+"コードページではエンコードできない文字が含まれています"
+
+msgid "Export"
+msgstr "[エクスポート]"
+
+msgid "No sequences selected"
+msgstr "シーケンスが選択されていません"
+
+msgid "Compression Ratio"
+msgstr "圧縮率"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Filter using regular expressions"
+msgstr "正規表現を使用してフィルタリングする"
+
+msgid "Invert filtering (show hidden items, and vice versa)"
+msgstr "反転フィルタリング (隠しアイテムを表示、その逆)"
+
+msgid "Import the selected animations into the scene as actions"
+msgstr "選択したアニメーションをアクションとしてシーンにインポートします"
+
+msgid "Sequences will be exported using actions"
+msgstr "シーケンスはアクションを使用してエクスポートされます"
+
+msgid ""
+"The keyframe sampling ratio of the exported sequence.\n"
+"\n"
+"A compression ratio of 1.0 will export all frames, while a compression ratio of 0.5 will export half of the frames"
+msgstr ""
+"エクスポートされたシーケンスのキーフレームサンプリング比。\n"
+"\n"
+"圧縮率が 1.0 の場合はすべてのフレームがエクスポートされ、圧縮率が 0.5 "
+"の場合はフレームの半分がエクスポートされます。"
+
+msgid "Each sequence name should be on a new line"
+msgstr "各シーケンス名は新しい行にする必要があります"
+
+msgid "Select All"
+msgstr "[すべて選択]"
+
+msgid "Import Shape Keys"
+msgstr "シェイプキーをインポート"
+
+msgid "File path used for importing the PSA file"
+msgstr "PSA ファイルのインポートに使用するファイルパス"
+
+msgid "Triangle Type"
+msgstr "トライアングルタイプ"
+
+msgid "Deselect All"
+msgstr "すべて選択解除"
+
+msgid "Modulate"
+msgstr "変調する"
+
+msgid ""
+"Use the animation data from a different object instead of the selected "
+"object"
+msgstr "選択したオブジェクトの代わりに別のオブジェクトのアニメーションデータを使用す"
+"る"
+
+msgid "The sequence is resampled to a custom frame rate"
+msgstr "シーケンスはカスタムフレームレートにリサンプリングされます。"
+
+msgid ""
+"Sequences are delineated by the start & end times of strips on the selected "
+"NLA track"
+msgstr "シーケンスは、選択した NLA "
+"トラックのストリップの開始時間と終了時間によって示されます"
+
+msgid "No bones available for export"
+msgstr "エクスポートできるボーンはありません"
+
+msgid "No timeline markers were selected for export"
+msgstr "エクスポートするタイムラインマーカーが選択されていません"
+
+msgid "Extra UVs"
+msgstr "追加の UV"
+
+msgid "Context"
+msgstr "コンテキスト"
+
+msgid "At least one mesh must be selected"
+msgstr "少なくとも 1 つのメッシュを選択する必要があります"
+
+msgid "No actions were selected for export"
+msgstr "エクスポートするアクションが選択されていません"
+
+msgid "Keyframe Quota"
+msgstr "キーフレームクォータ"
+
+msgid "Deselect all bone collections"
+msgstr "すべてのボーンコレクションを選択解除"
+
+msgid ""
+"Enforce that bone names must only contain letters, numbers, spaces, hyphens and underscores.\n"
+"\n"
+"Depending on the engine, improper bone names might not be referenced correctly by scripts"
+msgstr ""
+"ボーン名には文字、数字、スペース、ハイフン、アンダースコアのみを含めるように"
+"してください。\n"
+"\n"
+"エンジンによっては、不適切なボーン名がスクリプトで正しく参照されない場合があ"
+"ります。"
+
+msgid "Filter by Name"
+msgstr "名前で絞り込む"
+
+msgid "Bone names must match exactly"
+msgstr "ボーン名は正確に一致する必要があります"
+
+msgid ""
+"When enabled, the root bone will be transformed as it appears in the scene.\n"
+"\n"
+"You might want to disable this if you are exporting an animation for an armature that is attached to another object, such as a weapon or a shield"
+msgstr ""
+"有効にすると、ルートボーンはシーンに表示されているとおりにトランスフォームさ"
+"れます。\n"
+"\n"
+"武器や盾など、別のオブジェクトにアタッチされているアーマチュアのアニメーショ"
+"ンをエクスポートする場合は、これを無効にすると良いかもしれません。"
+
+msgid ""
+"Assign each imported action a fake user so that the data block is always "
+"saved"
+msgstr "インポートされた各アクションにフェイクユーザーを割り当てて、データブロックが"
+"常に保存されるようにします"
+
+msgid "Import Vertex Normals"
+msgstr "頂点法線をインポート"
+
+msgid "No text block selected"
+msgstr "テキストブロックが選択されていません"
+
+msgid ""
+"Bones names must match, ignoring case (e.g., the PSA bone 'aBcDeF' can be "
+"mapped to the armature bone 'ABCDEF')"
+msgstr ""
+"ボーンの名前は大文字と小文字を区別しないで一致する必要があります (例:"
+"PSAボーン 'abcDef' はアーマチュアボーン 'ABCDEF' にマッピングできます)"
+
+msgid "Material slot cannot be empty (index {index})"
+msgstr "マテリアルスロットを空にすることはできません (index {index})"
+
+msgid "Deselect all visible sequences"
+msgstr "表示されているシーケンスをすべて選択解除"
+
+msgid ""
+"Only bones belonging to the selected bone collections and their ancestors "
+"will be exported"
+msgstr "選択したボーンコレクションに属するボーンとその祖先だけがエクスポートされます"
+"。"
+
+msgid "Import Vertex Colors"
+msgstr "頂点カラーをインポート"
+
+msgid "Materials"
+msgstr "マテリアル"
+
+msgid "Vertex Color Space"
+msgstr "頂点カラースペース"
+
+msgid "Load a PSK file"
+msgstr "PSK ファイルを読み込む"
+
+msgid "Root Motion"
+msgstr "ルートモーション"
+
+msgid "Select By Text List"
+msgstr "テキストリストで選択"
+
+msgid "Fake User"
+msgstr "フェイクユーザー"
+
+msgid "The active object must be an armature"
+msgstr "アクティブオブジェクトはアーマチュアでなければなりません"

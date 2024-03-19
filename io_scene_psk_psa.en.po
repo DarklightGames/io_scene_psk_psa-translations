@@ -8,524 +8,227 @@
 msgid ""
 msgstr ""
 
-msgid ""
-"Enforce that bone names must only contain letters, numbers, spaces, hyphens and underscores.\n"
-"\n"
-"Depending on the engine, improper bone names might not be referenced correctly by scripts"
-msgstr ""
-"Enforce that bone names must only contain letters, numbers, spaces, hyphens and underscores.\n"
-"\n"
-"Depending on the engine, improper bone names might not be referenced correctly by scripts"
-
-msgid "Extra UVs"
-msgstr "Extra UVs"
-
-msgid "The sequence frame rate matches the original frame rate"
-msgstr "The sequence frame rate matches the original frame rate"
-
-msgid "The selected object must be an armature"
-msgstr "The selected object must be an armature"
-
-msgid "Bone Collections"
-msgstr "Bone Collections"
-
-msgid "Select By Text List"
-msgstr "Select By Text List"
-
-msgid ""
-"Bone names restrictions will be enforced. Note that bone names without "
-"properly formatted names may not be able to be referenced by some versions "
-"of the Unreal Engine"
-msgstr ""
-"Bone names restrictions will be enforced. Note that bone names without "
-"properly formatted names may not be able to be referenced by some versions "
-"of the Unreal Engine"
-
-msgid "Import shape keys, if available"
-msgstr "Import shape keys, if available"
-
-msgid "The frame rate of the exported sequence"
-msgstr "The frame rate of the exported sequence"
-
-msgid "Import Shape Keys"
-msgstr "Import Shape Keys"
-
-msgid "Discarded {count} invalid face(s)"
-msgstr "Discarded {count} invalid face(s)"
-
-msgid ""
-"Additional data will be written to the properties of the Action (e.g., frame"
-" rate)"
-msgstr ""
-"Additional data will be written to the properties of the Action (e.g., frame"
-" rate)"
-
-msgid "Deselect All"
-msgstr "Deselect All"
-
-msgid "Source"
-msgstr "Source"
-
-msgid "The sequence is resampled to a custom frame rate"
-msgstr "The sequence is resampled to a custom frame rate"
-
-msgid ""
-"Bone name \"{name}\" contains characters that cannot be encoded in the "
-"Windows-1252 codepage"
-msgstr ""
-"Bone name \"{name}\" contains characters that cannot be encoded in the "
-"Windows-1252 codepage"
-
-msgid "Unreal PSK (.psk)"
-msgstr "Unreal PSK (.psk)"
-
-msgid "Raw Mesh Data"
-msgstr "Raw Mesh Data"
-
-msgid ""
-"The method by which bones from the PSA file are mapped to the bones of the "
-"armature"
-msgstr ""
-"The method by which bones from the PSA file are mapped to the bones of the "
-"armature"
-
-msgid "Reversed"
-msgstr "Reversed"
-
-msgid ""
-"When enabled, the root bone will be transformed as it appears in the scene.\n"
-"\n"
-"You might want to disable this if you are exporting an animation for an armature that is attached to another object, such as a weapon or a shield"
-msgstr ""
-"When enabled, the root bone will be transformed as it appears in the scene.\n"
-"\n"
-"You might want to disable this if you are exporting an animation for an armature that is attached to another object, such as a weapon or a shield"
-
-msgid "Regular Expression"
-msgstr "Regular Expression"
-
-msgid "Deselect all visible sequences"
-msgstr "Deselect all visible sequences"
-
-msgid ""
-"Assign each imported action a fake user so that the data block is always "
-"saved"
-msgstr ""
-"Assign each imported action a fake user so that the data block is always "
-"saved"
-
-msgid "Import vertex normals, if available"
-msgstr "Import vertex normals, if available"
-
-msgid "Each sequence name should be on a new line"
-msgstr "Each sequence name should be on a new line"
-
-msgid "Unlit"
-msgstr "Unlit"
-
-msgid "Export mesh and armature to PSK"
-msgstr "Export mesh and armature to PSK"
-
-msgid ""
-"Only bones belonging to the selected bone collections and their ancestors "
-"will be exported"
-msgstr ""
-"Only bones belonging to the selected bone collections and their ancestors "
-"will be exported"
-
-msgid ""
-"All selected meshes must have the same armature modifier, encountered "
-"{count} ({names})"
-msgstr ""
-"All selected meshes must have the same armature modifier, encountered "
-"{count} ({names})"
-
-msgid "Metadata"
-msgstr "Metadata"
-
-msgid "Filter by Name"
-msgstr "Filter by Name"
-
-msgid "No sequences selected"
-msgstr "No sequences selected"
-
-msgid "Enforce Bone Name Restrictions"
-msgstr "Enforce Bone Name Restrictions"
-
-msgid "Vertex Colors"
-msgstr "Vertex Colors"
-
-msgid "Sequences will be exported using actions"
-msgstr "Sequences will be exported using actions"
-
-msgid "Unrecognized wedge format"
-msgstr "Unrecognized wedge format"
-
-msgid "Selected {count} sequence(s)"
-msgstr "Selected {count} sequence(s)"
-
-msgid "PSK imported ({name})"
-msgstr "PSK imported ({name})"
-
-msgid "At least one mesh must be selected"
-msgstr "At least one mesh must be selected"
-
-msgid "Keyframe Quota"
-msgstr "Keyframe Quota"
-
-msgid "Only show items matching this name (use '*' as wildcard)"
-msgstr "Only show items matching this name (use '*' as wildcard)"
-
-msgid "Export actions to PSA"
-msgstr "Export actions to PSA"
-
-msgid "Load a PSK file"
-msgstr "Load a PSK file"
-
-msgid "Import the selected animations into the scene as actions"
-msgstr "Import the selected animations into the scene as actions"
-
-msgid "Vertex Normals"
-msgstr "Vertex Normals"
-
-msgid "Only Show Selected"
-msgstr "Only Show Selected"
-
-msgid "NLA Track Index"
-msgstr "NLA Track Index"
-
-msgid "The source vertex color space"
-msgstr "The source vertex color space"
-
-msgid ""
-"Sequences are delineated by the start & end times of strips on the selected "
-"NLA track"
-msgstr ""
-"Sequences are delineated by the start & end times of strips on the selected "
-"NLA track"
-
-msgid "Custom FPS"
-msgstr "Custom FPS"
-
-msgid ""
-"Sequence name \"{name}\" contains characters that cannot be encoded in the "
-"Windows-1252 codepage"
-msgstr ""
-"Sequence name \"{name}\" contains characters that cannot be encoded in the "
-"Windows-1252 codepage"
-
-msgid "PSK imported with {count} warning(s)"
-msgstr "PSK imported with {count} warning(s)"
-
-msgid "NLA Track"
-msgstr "NLA Track"
-
-msgid "Translucent"
-msgstr "Translucent"
-
-msgid "Sequences"
-msgstr "Sequences"
-
-msgid "Import Vertex Normals"
-msgstr "Import Vertex Normals"
-
-msgid "Invert filtering (show hidden items, and vice versa)"
-msgstr "Invert filtering (show hidden items, and vice versa)"
-
+#. psa\export\properties.py:127
 msgid "Action Metadata"
 msgstr "Action Metadata"
 
-msgid "Select sequences by name from text list"
-msgstr "Select sequences by name from text list"
-
-msgid "Move the selected material up one slot"
-msgstr "Move the selected material up one slot"
-
-msgid "File path used for importing the PSA file"
-msgstr "File path used for importing the PSA file"
-
-msgid "No actions were selected for export"
-msgstr "No actions were selected for export"
-
-msgid "Fake User"
-msgstr "Fake User"
-
-msgid "No timeline markers were selected for export"
-msgstr "No timeline markers were selected for export"
-
-msgid "The active object must be an armature"
-msgstr "The active object must be an armature"
-
-msgid "Filter using regular expressions"
-msgstr "Filter using regular expressions"
-
-msgid "Context"
-msgstr "Context"
-
-msgid "Export"
-msgstr "Export"
-
+#. psa\import_\properties.py:51
 msgid ""
-"Stash each imported action as a strip on a new non-contributing NLA track"
+"Additional data will be written to the properties of the Action (e.g., frame"
+" rate)"
 msgstr ""
-"Stash each imported action as a strip on a new non-contributing NLA track"
+"Additional data will be written to the properties of the Action (e.g., frame"
+" rate)"
 
-msgid "File path used for exporting the PSK file"
-msgstr "File path used for exporting the PSK file"
-
-msgid "Selected object must be an Armature"
-msgstr "Selected object must be an Armature"
-
-msgid "Show actions that belong to an asset library"
-msgstr "Show actions that belong to an asset library"
-
-msgid "Sequence"
-msgstr "Sequence"
-
-msgid "Case Insensitive"
-msgstr "Case Insensitive"
-
-msgid "PSK export successful"
-msgstr "PSK export successful"
-
-msgid "Triangle Bit Flags"
-msgstr "Triangle Bit Flags"
-
-msgid "Failed to read PSA config file: {error}"
-msgstr "Failed to read PSA config file: {error}"
-
-msgid "Override Animation Data"
-msgstr "Override Animation Data"
-
-msgid "PSK/PSA Import/Export (.psk/.psa)"
-msgstr "PSK/PSA Import/Export (.psk/.psa)"
-
-msgid "Select a PSA file"
-msgstr "Select a PSA file"
-
-msgid "Prefix Action Name"
-msgstr "Prefix Action Name"
-
-msgid "No NLA track strips were selected for export"
-msgstr "No NLA track strips were selected for export"
-
-msgid "NLA Track Strips"
-msgstr "NLA Track Strips"
-
+#. psa\export\properties.py:144
 msgid "All bones will be exported"
 msgstr "All bones will be exported"
 
-msgid "The frame rate to which the imported sequences will be resampled to"
-msgstr "The frame rate to which the imported sequences will be resampled to"
-
-msgid "Normal Two-Sided"
-msgstr "Normal Two-Sided"
-
-msgid "Select all bone collections"
-msgstr "Select all bone collections"
-
-msgid "Import Extra UVs"
-msgstr "Import Extra UVs"
-
-msgid "PSK/PSA Importer/Exporter"
-msgstr "PSK/PSA Importer/Exporter"
-
-msgid "File Path"
-msgstr "File Path"
-
-msgid "Nothing to import"
-msgstr "Nothing to import"
-
-msgid "No modifiers will be evaluated as part of the exported mesh"
-msgstr "No modifiers will be evaluated as part of the exported mesh"
-
-msgid "An armature object must be supplied"
-msgstr "An armature object must be supplied"
-
-msgid "RemoveTracks"
-msgstr "RemoveTracks"
-
-msgid "PSA Export"
-msgstr "PSA Export"
-
-msgid "Flags"
-msgstr "Flags"
-
-msgid "Materials"
-msgstr "Materials"
-
-msgid "Show reversed sequences"
-msgstr "Show reversed sequences"
-
-msgid "Use Config File"
-msgstr "Use Config File"
-
-msgid "At least one bone must be marked for export"
-msgstr "At least one bone must be marked for export"
-
-msgid "The minimum number of keyframes to be exported"
-msgstr "The minimum number of keyframes to be exported"
-
-msgid "Exact"
-msgstr "Exact"
-
+#. psk\builder.py:61
 msgid ""
-"Use the animation data from a different object instead of the selected "
-"object"
+"All selected meshes must have the same armature modifier, encountered "
+"{count} ({names})"
 msgstr ""
-"Use the animation data from a different object instead of the selected "
-"object"
+"All selected meshes must have the same armature modifier, encountered "
+"{count} ({names})"
 
-msgid "Select all visible sequences"
-msgstr "Select all visible sequences"
-
-msgid "File path used for exporting the PSA file"
-msgstr "File path used for exporting the PSA file"
-
-msgid "Import vertex colors, if available"
-msgstr "Import vertex colors, if available"
-
-msgid "Root Motion"
-msgstr "Root Motion"
-
-msgid "No Smooth"
-msgstr "No Smooth"
-
+#. psa\export\operators.py:331
 msgid "An armature must be selected"
 msgstr "An armature must be selected"
 
-msgid "FPS Source"
-msgstr "FPS Source"
+#. helpers.py:101
+msgid "An armature object must be supplied"
+msgstr "An armature object must be supplied"
 
-msgid "Material slot cannot be empty (index {index})"
-msgstr "Material slot cannot be empty (index {index})"
-
+#. psa\import_\properties.py:32
 msgid ""
-"The frame rate will be determined by action's FPS property found in the PSA Export panel.\n"
-"\n"
-"If the Sequence Source is Timeline Markers, the lowest value of all contributing actions will be used"
+"Assign each imported action a fake user so that the data block is always "
+"saved"
 msgstr ""
-"The frame rate will be determined by action's FPS property found in the PSA Export panel.\n"
-"\n"
-"If the Sequence Source is Timeline Markers, the lowest value of all contributing actions will be used"
+"Assign each imported action a fake user so that the data block is always "
+"saved"
 
-msgid "Import extra UVs, if available"
-msgstr "Import extra UVs, if available"
+#. psk\writer.py:41
+msgid "At least one bone must be marked for export"
+msgstr "At least one bone must be marked for export"
 
-msgid ""
-"Material name \"{name}\" contains characters that cannot be encoded in the "
-"Windows-1252 codepage"
-msgstr ""
-"Material name \"{name}\" contains characters that cannot be encoded in the "
-"Windows-1252 codepage"
+#. psk\builder.py:38
+msgid "At least one mesh must be selected"
+msgstr "At least one mesh must be selected"
 
-msgid "The sequence is resampled to the frame rate of the scene"
-msgstr "The sequence is resampled to the frame rate of the scene"
+#. psa\export\properties.py:145
+msgid "Bone Collections"
+msgstr "Bone Collections"
 
-msgid ""
-"Use the .config file that is sometimes generated when the PSA file is "
-"exported from UEViewer. This file contains options that can be used to "
-"filter out certain bones tracks from the imported actions"
-msgstr ""
-"Use the .config file that is sometimes generated when the PSA file is "
-"exported from UEViewer. This file contains options that can be used to "
-"filter out certain bones tracks from the imported actions"
-
-msgid "Import Vertex Colors"
-msgstr "Import Vertex Colors"
-
-msgid "Modulate"
-msgstr "Modulate"
-
-msgid "Select All"
-msgstr "Select All"
-
-msgid "Move the selected material down one slot"
-msgstr "Move the selected material down one slot"
-
-msgid "PSK Material"
-msgstr "PSK Material"
-
-msgid "Vertex Color Space"
-msgstr "Vertex Color Space"
-
-msgid "Convert to Samples"
-msgstr "Convert to Samples"
-
-msgid "Bone Name Mapping"
-msgstr "Bone Name Mapping"
-
-msgid "Import"
-msgstr "Import"
-
-msgid "Write"
-msgstr "Write"
-
-msgid ""
-"Convert keyframes to read-only samples. Recommended if you do not plan on "
-"editing the actions directly"
-msgstr ""
-"Convert keyframes to read-only samples. Recommended if you do not plan on "
-"editing the actions directly"
-
-msgid "No bones available for export"
-msgstr "No bones available for export"
-
-msgid "Bones"
-msgstr "Bones"
-
-msgid "Shape Keys"
-msgstr "Shape Keys"
-
-msgid "sRGBA"
-msgstr "sRGBA"
-
-msgid "Compression Ratio"
-msgstr "Compression Ratio"
-
-msgid "No animation data for object \"{name}\""
-msgstr "No animation data for object \"{name}\""
-
-msgid "Unreal PSK (.psk/.pskx)"
-msgstr "Unreal PSK (.psk/.pskx)"
-
+#. psa\export\properties.py:140
 msgid "Bone Filter"
 msgstr "Bone Filter"
 
-msgid ""
-"Bones names must match, ignoring case (e.g., the PSA bone 'aBcDeF' can be "
-"mapped to the armature bone 'ABCDEF')"
-msgstr ""
-"Bones names must match, ignoring case (e.g., the PSA bone 'aBcDeF' can be "
-"mapped to the armature bone 'ABCDEF')"
-
-msgid "No text block selected"
-msgstr "No text block selected"
-
-msgid ""
-"The keyframe sampling ratio of the exported sequence.\n"
-"\n"
-"A compression ratio of 1.0 will export all frames, while a compression ratio of 0.5 will export half of the frames"
-msgstr ""
-"The keyframe sampling ratio of the exported sequence.\n"
-"\n"
-"A compression ratio of 1.0 will export all frames, while a compression ratio of 0.5 will export half of the frames"
-
-msgid "Deselect all bone collections"
-msgstr "Deselect all bone collections"
-
-msgid "Triangle Type"
-msgstr "Triangle Type"
-
-msgid "Unreal PSA (.psa)"
-msgstr "Unreal PSA (.psa)"
-
-msgid "Only show selected sequences"
-msgstr "Only show selected sequences"
-
+#. psk\import_\operators.py:87
 msgid "Bone Length"
 msgstr "Bone Length"
 
+#. psa\import_\properties.py:67
+msgid "Bone Name Mapping"
+msgstr "Bone Name Mapping"
+
+#. psa\builder.py:99
+msgid ""
+"Bone name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+msgstr ""
+"Bone name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+
+#. psa\import_\properties.py:71
+msgid "Bone names must match exactly"
+msgstr "Bone names must match exactly"
+
+#. psa\export\properties.py:154
+msgid ""
+"Bone names restrictions will be enforced. Note that bone names without "
+"properly formatted names may not be able to be referenced by some versions "
+"of the Unreal Engine"
+msgstr ""
+"Bone names restrictions will be enforced. Note that bone names without "
+"properly formatted names may not be able to be referenced by some versions "
+"of the Unreal Engine"
+
+#. psa\export\operators.py:304
+msgid "Bones"
+msgstr "Bones"
+
+#. psa\import_\properties.py:72
+msgid ""
+"Bones names must match, ignoring case (e.g., the PSA bone 'aBcDeF' can be "
+"mapped to the armature bone 'ABCDEF')"
+msgstr ""
+"Bones names must match, ignoring case (e.g., the PSA bone 'aBcDeF' can be "
+"mapped to the armature bone 'ABCDEF')"
+
+#. psa\import_\properties.py:72
+msgid "Case Insensitive"
+msgstr "Case Insensitive"
+
+#. types.py:22
+msgid "Compression Ratio"
+msgstr "Compression Ratio"
+
+#. types.py:36
+msgid "Context"
+msgstr "Context"
+
+#. psa\import_\properties.py:63
+msgid ""
+"Convert keyframes to read-only samples. Recommended if you do not plan on "
+"editing the actions directly"
+msgstr ""
+"Convert keyframes to read-only samples. Recommended if you do not plan on "
+"editing the actions directly"
+
+#. psa\import_\properties.py:62
+msgid "Convert to Samples"
+msgstr "Convert to Samples"
+
+#. psa\import_\properties.py:83
+msgid "Custom FPS"
+msgstr "Custom FPS"
+
+#. psa\export\operators.py:475
+msgid "Deselect All"
+msgstr "Deselect All"
+
+#. psa\export\operators.py:527
+msgid "Deselect all bone collections"
+msgstr "Deselect all bone collections"
+
+#. psa\export\operators.py:476
+msgid "Deselect all visible sequences"
+msgstr "Deselect all visible sequences"
+
+#. psk\importer.py:168
+msgid "Discarded {count} invalid face(s)"
+msgstr "Discarded {count} invalid face(s)"
+
+#. psa\import_\operators.py:32
+msgid "Each sequence name should be on a new line"
+msgstr "Each sequence name should be on a new line"
+
+#. psa\export\properties.py:153
+msgid "Enforce Bone Name Restrictions"
+msgstr "Enforce Bone Name Restrictions"
+
+#. psk\export\properties.py:32
+msgid ""
+"Enforce that bone names must only contain letters, numbers, spaces, hyphens and underscores.\n"
+"\n"
+"Depending on the engine, improper bone names might not be referenced correctly by scripts"
+msgstr ""
+"Enforce that bone names must only contain letters, numbers, spaces, hyphens and underscores.\n"
+"\n"
+"Depending on the engine, improper bone names might not be referenced correctly by scripts"
+
+#. psa\import_\properties.py:71
+msgid "Exact"
+msgstr "Exact"
+
+#. psa\export\operators.py:212
+msgid "Export"
+msgstr "Export"
+
+#. psa\export\operators.py:214
+msgid "Export actions to PSA"
+msgstr "Export actions to PSA"
+
+#. psk\export\operators.py:81
+msgid "Export mesh and armature to PSK"
+msgstr "Export mesh and armature to PSK"
+
+#. psk\import_\operators.py:157
+msgid "Extra UVs"
+msgstr "Extra UVs"
+
+#. psa\export\properties.py:122
+msgid "FPS Source"
+msgstr "FPS Source"
+
+#. psa\import_\operators.py:171
+msgid "Failed to read PSA config file: {error}"
+msgstr "Failed to read PSA config file: {error}"
+
+#. psa\import_\properties.py:31
+msgid "Fake User"
+msgstr "Fake User"
+
+#. psa\export\operators.py:218
+msgid "File Path"
+msgstr "File Path"
+
+#. psa\export\operators.py:219
+msgid "File path used for exporting the PSA file"
+msgstr "File path used for exporting the PSA file"
+
+#. psk\export\operators.py:87
+msgid "File path used for exporting the PSK file"
+msgstr "File path used for exporting the PSK file"
+
+#. psa\import_\operators.py:129
+msgid "File path used for importing the PSA file"
+msgstr "File path used for importing the PSA file"
+
+#. psa\export\properties.py:161
+msgid "Filter by Name"
+msgstr "Filter by Name"
+
+#. psa\import_\properties.py:58
+msgid "Filter using regular expressions"
+msgstr "Filter using regular expressions"
+
+#. psk\ui.py:23
+msgid "Flags"
+msgstr "Flags"
+
+#. psa\import_\properties.py:47
 msgid ""
 "If an action with a matching name already exists, the existing action will "
 "have it's data overwritten instead of a new action being created"
@@ -533,11 +236,456 @@ msgstr ""
 "If an action with a matching name already exists, the existing action will "
 "have it's data overwritten instead of a new action being created"
 
+#. psa\import_\operators.py:121
+msgid "Import"
+msgstr "Import"
+
+#. psk\import_\operators.py:63
+msgid "Import Extra UVs"
+msgstr "Import Extra UVs"
+
+#. psk\import_\operators.py:93
+msgid "Import Shape Keys"
+msgstr "Import Shape Keys"
+
+#. psk\import_\operators.py:42
+msgid "Import Vertex Colors"
+msgstr "Import Vertex Colors"
+
+#. psk\import_\operators.py:57
+msgid "Import Vertex Normals"
+msgstr "Import Vertex Normals"
+
+#. psk\import_\operators.py:65
+msgid "Import extra UVs, if available"
+msgstr "Import extra UVs, if available"
+
+#. psk\import_\operators.py:95
+msgid "Import shape keys, if available"
+msgstr "Import shape keys, if available"
+
+#. psa\import_\operators.py:122
+msgid "Import the selected animations into the scene as actions"
+msgstr "Import the selected animations into the scene as actions"
+
+#. psk\import_\operators.py:43
+msgid "Import vertex colors, if available"
+msgstr "Import vertex colors, if available"
+
+#. psk\import_\operators.py:59
+msgid "Import vertex normals, if available"
+msgstr "Import vertex normals, if available"
+
+#. psa\export\properties.py:168
+msgid "Invert filtering (show hidden items, and vice versa)"
+msgstr "Invert filtering (show hidden items, and vice versa)"
+
+#. types.py:23
+msgid "Keyframe Quota"
+msgstr "Keyframe Quota"
+
+#. psk\import_\operators.py:30
+msgid "Load a PSK file"
+msgstr "Load a PSK file"
+
+#. psk\builder.py:152
+msgid ""
+"Material name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+msgstr ""
+"Material name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+
+#. psk\export\operators.py:30
+msgid "Material slot cannot be empty (index {index})"
+msgstr "Material slot cannot be empty (index {index})"
+
+#. psk\export\operators.py:152
+msgid "Materials"
+msgstr "Materials"
+
+#. psa\import_\properties.py:50
+msgid "Metadata"
+msgstr "Metadata"
+
+#. psk\properties.py:9
+msgid "Modulate"
+msgstr "Modulate"
+
+#. psk\export\operators.py:63
+msgid "Move the selected material down one slot"
+msgstr "Move the selected material down one slot"
+
+#. psk\export\operators.py:45
+msgid "Move the selected material up one slot"
+msgstr "Move the selected material up one slot"
+
+#. psa\export\properties.py:114
+msgid "NLA Track"
+msgstr "NLA Track"
+
+#. psa\export\properties.py:120
+msgid "NLA Track Index"
+msgstr "NLA Track Index"
+
+#. psa\export\properties.py:110
+msgid "NLA Track Strips"
+msgstr "NLA Track Strips"
+
+#. psa\export\operators.py:368
+msgid "No NLA track strips were selected for export"
+msgstr "No NLA track strips were selected for export"
+
+#. psk\properties.py:17
+msgid "No Smooth"
+msgstr "No Smooth"
+
+#. psa\export\operators.py:364
+msgid "No actions were selected for export"
+msgstr "No actions were selected for export"
+
+#. psa\export\operators.py:375
+msgid "No animation data for object \"{name}\""
+msgstr "No animation data for object \"{name}\""
+
+#. psa\builder.py:86
+msgid "No bones available for export"
+msgstr "No bones available for export"
+
+#. psk\export\properties.py:26
+msgid "No modifiers will be evaluated as part of the exported mesh"
+msgstr "No modifiers will be evaluated as part of the exported mesh"
+
+#. psa\import_\operators.py:148
+msgid "No sequences selected"
+msgstr "No sequences selected"
+
+#. psa\import_\operators.py:38
+msgid "No text block selected"
+msgstr "No text block selected"
+
+#. psa\export\operators.py:366
+msgid "No timeline markers were selected for export"
+msgstr "No timeline markers were selected for export"
+
+#. psk\properties.py:6
+msgid "Normal Two-Sided"
+msgstr "Normal Two-Sided"
+
+#. psk\import_\operators.py:120
+msgid "Nothing to import"
+msgstr "Nothing to import"
+
+#. psa\import_\properties.py:54
+msgid "Only Show Selected"
+msgstr "Only Show Selected"
+
+#. psa\export\properties.py:145
+msgid ""
+"Only bones belonging to the selected bone collections and their ancestors "
+"will be exported"
+msgstr ""
+"Only bones belonging to the selected bone collections and their ancestors "
+"will be exported"
+
+#. psa\export\properties.py:163
+msgid "Only show items matching this name (use '*' as wildcard)"
+msgstr "Only show items matching this name (use '*' as wildcard)"
+
+#. psa\import_\properties.py:55
+msgid "Only show selected sequences"
+msgstr "Only show selected sequences"
+
+#. psa\export\properties.py:92
+msgid "Override Animation Data"
+msgstr "Override Animation Data"
+
+#. types.py:29
+msgid "PSA Export"
+msgstr "PSA Export"
+
+#. psa\export\operators.py:430
 msgid "PSA export successful"
 msgstr "PSA export successful"
 
+#. psk\ui.py:5
+msgid "PSK Material"
+msgstr "PSK Material"
+
+#. psk\export\operators.py:179
+msgid "PSK export successful"
+msgstr "PSK export successful"
+
+#. psk\import_\operators.py:131
+msgid "PSK imported ({name})"
+msgstr "PSK imported ({name})"
+
+#. psk\import_\operators.py:126
+msgid "PSK imported with {count} warning(s)"
+msgstr "PSK imported with {count} warning(s)"
+
+#. __init__.py:8
+msgid "PSK/PSA Import/Export (.psk/.psa)"
+msgstr "PSK/PSA Import/Export (.psk/.psa)"
+
+#. __init__.py:4
+msgid "PSK/PSA Importer/Exporter"
+msgstr "PSK/PSA Importer/Exporter"
+
+#. psa\import_\properties.py:44
+msgid "Prefix Action Name"
+msgstr "Prefix Action Name"
+
+#. psk\export\properties.py:26
+msgid "Raw Mesh Data"
+msgstr "Raw Mesh Data"
+
+#. psa\import_\properties.py:57
+msgid "Regular Expression"
+msgstr "Regular Expression"
+
+#. psa\config.py:58
+msgid "RemoveTracks"
+msgstr "RemoveTracks"
+
+#. psa\export\properties.py:182
+msgid "Reversed"
+msgstr "Reversed"
+
+#. psa\export\operators.py:326
+msgid "Root Motion"
+msgstr "Root Motion"
+
+#. psa\export\operators.py:442
+msgid "Select All"
+msgstr "Select All"
+
+#. psa\import_\operators.py:17
+msgid "Select By Text List"
+msgstr "Select By Text List"
+
+#. psa\import_\operators.py:207
+msgid "Select a PSA file"
+msgstr "Select a PSA file"
+
+#. psa\export\operators.py:507
+msgid "Select all bone collections"
+msgstr "Select all bone collections"
+
+#. psa\export\operators.py:443
+msgid "Select all visible sequences"
+msgstr "Select all visible sequences"
+
+#. psa\import_\operators.py:18
+msgid "Select sequences by name from text list"
+msgstr "Select sequences by name from text list"
+
+#. psa\export\operators.py:114
+msgid "Selected object must be an Armature"
+msgstr "Selected object must be an Armature"
+
+#. psa\import_\operators.py:47
+msgid "Selected {count} sequence(s)"
+msgstr "Selected {count} sequence(s)"
+
+#. psa\import_\properties.py:77
+msgid "Sequence"
+msgstr "Sequence"
+
+#. psa\builder.py:177
+msgid ""
+"Sequence name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+msgstr ""
+"Sequence name \"{name}\" contains characters that cannot be encoded in the "
+"Windows-1252 codepage"
+
+#. psa\export\operators.py:240
+msgid "Sequences"
+msgstr "Sequences"
+
+#. psa\export\properties.py:109
 msgid "Sequences are delineated by scene timeline markers"
 msgstr "Sequences are delineated by scene timeline markers"
 
-msgid "Bone names must match exactly"
-msgstr "Bone names must match exactly"
+#. psa\export\properties.py:110
+msgid ""
+"Sequences are delineated by the start & end times of strips on the selected "
+"NLA track"
+msgstr ""
+"Sequences are delineated by the start & end times of strips on the selected "
+"NLA track"
+
+#. psa\export\properties.py:108
+msgid "Sequences will be exported using actions"
+msgstr "Sequences will be exported using actions"
+
+#. psk\import_\operators.py:161
+msgid "Shape Keys"
+msgstr "Shape Keys"
+
+#. psa\export\properties.py:173
+msgid "Show actions that belong to an asset library"
+msgstr "Show actions that belong to an asset library"
+
+#. psa\export\properties.py:183
+msgid "Show reversed sequences"
+msgstr "Show reversed sequences"
+
+#. psa\export\operators.py:254
+msgid "Source"
+msgstr "Source"
+
+#. psa\import_\properties.py:41
+msgid "Stash"
+msgstr "Stash"
+
+#. psa\import_\properties.py:42
+msgid ""
+"Stash each imported action as a strip on a new non-contributing NLA track"
+msgstr ""
+"Stash each imported action as a strip on a new non-contributing NLA track"
+
+#. psa\import_\operators.py:138
+msgid "The active object must be an armature"
+msgstr "The active object must be an armature"
+
+#. types.py:24
+msgid "The frame rate of the exported sequence"
+msgstr "The frame rate of the exported sequence"
+
+#. psa\import_\properties.py:84
+msgid "The frame rate to which the imported sequences will be resampled to"
+msgstr "The frame rate to which the imported sequences will be resampled to"
+
+#. psa\export\properties.py:127
+msgid ""
+"The frame rate will be determined by action's FPS property found in the PSA Export panel.\n"
+"\n"
+"If the Sequence Source is Timeline Markers, the lowest value of all contributing actions will be used"
+msgstr ""
+"The frame rate will be determined by action's FPS property found in the PSA Export panel.\n"
+"\n"
+"If the Sequence Source is Timeline Markers, the lowest value of all contributing actions will be used"
+
+#. types.py:22
+msgid ""
+"The keyframe sampling ratio of the exported sequence.\n"
+"\n"
+"A compression ratio of 1.0 will export all frames, while a compression ratio of 0.5 will export half of the frames"
+msgstr ""
+"The keyframe sampling ratio of the exported sequence.\n"
+"\n"
+"A compression ratio of 1.0 will export all frames, while a compression ratio of 0.5 will export half of the frames"
+
+#. psa\import_\properties.py:69
+msgid ""
+"The method by which bones from the PSA file are mapped to the bones of the "
+"armature"
+msgstr ""
+"The method by which bones from the PSA file are mapped to the bones of the "
+"armature"
+
+#. types.py:23
+msgid "The minimum number of keyframes to be exported"
+msgstr "The minimum number of keyframes to be exported"
+
+#. psa\export\operators.py:334
+msgid "The selected object must be an armature"
+msgstr "The selected object must be an armature"
+
+#. psa\import_\properties.py:77
+msgid "The sequence frame rate matches the original frame rate"
+msgstr "The sequence frame rate matches the original frame rate"
+
+#. psa\import_\properties.py:79
+msgid "The sequence is resampled to a custom frame rate"
+msgstr "The sequence is resampled to a custom frame rate"
+
+#. psa\import_\properties.py:78
+msgid "The sequence is resampled to the frame rate of the scene"
+msgstr "The sequence is resampled to the frame rate of the scene"
+
+#. psk\import_\operators.py:48
+msgid "The source vertex color space"
+msgstr "The source vertex color space"
+
+#. psk\properties.py:7
+msgid "Translucent"
+msgstr "Translucent"
+
+#. psk\properties.py:22
+msgid "Triangle Bit Flags"
+msgstr "Triangle Bit Flags"
+
+#. psk\properties.py:21
+msgid "Triangle Type"
+msgstr "Triangle Type"
+
+#. psk\properties.py:14
+msgid "Unlit"
+msgstr "Unlit"
+
+#. __init__.py:105
+msgid "Unreal PSA (.psa)"
+msgstr "Unreal PSA (.psa)"
+
+#. __init__.py:97
+msgid "Unreal PSK (.psk)"
+msgstr "Unreal PSK (.psk)"
+
+#. __init__.py:101
+msgid "Unreal PSK (.psk/.pskx)"
+msgstr "Unreal PSK (.psk/.pskx)"
+
+#. psk\reader.py:50
+msgid "Unrecognized wedge format"
+msgstr "Unrecognized wedge format"
+
+#. psa\import_\properties.py:35
+msgid "Use Config File"
+msgstr "Use Config File"
+
+#. psa\import_\properties.py:36
+msgid ""
+"Use the .config file that is sometimes generated when the PSA file is "
+"exported from UEViewer. This file contains options that can be used to "
+"filter out certain bones tracks from the imported actions"
+msgstr ""
+"Use the .config file that is sometimes generated when the PSA file is "
+"exported from UEViewer. This file contains options that can be used to "
+"filter out certain bones tracks from the imported actions"
+
+#. psa\export\properties.py:95
+msgid ""
+"Use the animation data from a different object instead of the selected "
+"object"
+msgstr ""
+"Use the animation data from a different object instead of the selected "
+"object"
+
+#. psk\import_\operators.py:46
+msgid "Vertex Color Space"
+msgstr "Vertex Color Space"
+
+#. psk\import_\operators.py:158
+msgid "Vertex Colors"
+msgstr "Vertex Colors"
+
+#. psk\import_\operators.py:156
+msgid "Vertex Normals"
+msgstr "Vertex Normals"
+
+#. psa\export\properties.py:87
+msgid ""
+"When enabled, the root bone will be transformed as it appears in the scene.\n"
+"\n"
+"You might want to disable this if you are exporting an animation for an armature that is attached to another object, such as a weapon or a shield"
+msgstr ""
+"When enabled, the root bone will be transformed as it appears in the scene.\n"
+"\n"
+"You might want to disable this if you are exporting an animation for an armature that is attached to another object, such as a weapon or a shield"
+
+#. psa\import_\operators.py:239
+msgid "Write"
+msgstr "Write"

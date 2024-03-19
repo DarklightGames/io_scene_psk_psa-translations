@@ -150,6 +150,10 @@ msgstr "Deselect all visible sequences"
 msgid "Discarded {count} invalid face(s)"
 msgstr "Discarded {count} invalid face(s)"
 
+#. psa\export\operators.py:297
+msgid "Duplicate action: {action_name}"
+msgstr "Duplicate action: {action_name}"
+
 #. psa\import_\operators.py:32
 msgid "Each sequence name should be on a new line"
 msgstr "Each sequence name should be on a new line"
@@ -183,6 +187,16 @@ msgstr "Export actions to PSA"
 #. psk\export\operators.py:81
 msgid "Export mesh and armature to PSK"
 msgstr "Export mesh and armature to PSK"
+
+#. helpers.py:166
+msgid ""
+"Exported bone hierarchy must have a single root bone.\n"
+"The bone hierarchy marked for export has {root_bone_count} root bones: {root_bone_names}.\n"
+"Additional debugging information has been written to the console."
+msgstr ""
+"Exported bone hierarchy must have a single root bone.\n"
+"The bone hierarchy marked for export has {root_bone_count} root bones: {root_bone_names}.\n"
+"Additional debugging information has been written to the console."
 
 #. psk\import_\operators.py:157
 msgid "Extra UVs"
@@ -276,6 +290,18 @@ msgstr "Import vertex colors, if available"
 msgid "Import vertex normals, if available"
 msgstr "Import vertex normals, if available"
 
+#. psa\import_\operators.py:184
+msgid "Imported {action_count} action(s)"
+msgstr "Imported {action_count} action(s)"
+
+#. psa\import_\operators.py:178
+msgid "Imported {action_count} action(s) with {warning_count} warning(s)"
+msgstr "Imported {action_count} action(s) with {warning_count} warning(s)"
+
+#. psa\importer.py:235
+msgid "Invalid FPS source: {fps_source}"
+msgstr "Invalid FPS source: {fps_source}"
+
 #. psa\export\properties.py:168
 msgid "Invert filtering (show hidden items, and vice versa)"
 msgstr "Invert filtering (show hidden items, and vice versa)"
@@ -303,6 +329,14 @@ msgstr "Material slot cannot be empty (index {index})"
 #. psk\export\operators.py:152
 msgid "Materials"
 msgstr "Materials"
+
+#. psk\builder.py:42
+msgid "Mesh \"{object_name}\" must have at least one material"
+msgstr "Mesh \"{object_name}\" must have at least one material"
+
+#. psk\builder.py:55
+msgid "Mesh \"{object_name}\" must have only one armature modifier"
+msgstr "Mesh \"{object_name}\" must have only one armature modifier"
 
 #. psa\import_\properties.py:50
 msgid "Metadata"
@@ -376,6 +410,25 @@ msgstr "Normal Two-Sided"
 msgid "Nothing to import"
 msgstr "Nothing to import"
 
+#. psk\writer.py:38
+msgid "Number of bones ({bone_count}) exceeds limit of {MAX_BONE_COUNT}"
+msgstr "Number of bones ({bone_count}) exceeds limit of {MAX_BONE_COUNT}"
+
+#. psk\writer.py:35
+msgid ""
+"Number of materials ({material_count}) exceeds limit of {MAX_MATERIAL_COUNT}"
+msgstr ""
+"Number of materials ({material_count}) exceeds limit of {MAX_MATERIAL_COUNT}"
+
+#. psk\writer.py:29
+msgid "Number of wedges ({wedge_count}) exceeds limit of {MAX_WEDGE_COUNT}"
+msgstr "Number of wedges ({wedge_count}) exceeds limit of {MAX_WEDGE_COUNT}"
+
+#. psk\writer.py:32
+msgid "Numbers of vertices ({point_count}) exceeds limit of {MAX_POINT_COUNT}"
+msgstr ""
+"Numbers of vertices ({point_count}) exceeds limit of {MAX_POINT_COUNT}"
+
 #. psa\import_\properties.py:54
 msgid "Only Show Selected"
 msgstr "Only Show Selected"
@@ -404,6 +457,16 @@ msgstr "Override Animation Data"
 msgid "PSA Export"
 msgstr "PSA Export"
 
+#. psa\importer.py:161
+msgid ""
+"PSA bone {bone_index} ({bone_name}) could not be mapped to armature bone "
+"{armature_bone_index} ({armature_bone_name}) because the armature bone is "
+"already mapped to PSA bone {mapped_psa_bone_index} ({mapped_psa_bone_name})"
+msgstr ""
+"PSA bone {bone_index} ({bone_name}) could not be mapped to armature bone "
+"{armature_bone_index} ({armature_bone_name}) because the armature bone is "
+"already mapped to PSA bone {mapped_psa_bone_index} ({mapped_psa_bone_name})"
+
 #. psa\export\operators.py:430
 msgid "PSA export successful"
 msgstr "PSA export successful"
@@ -415,6 +478,10 @@ msgstr "PSK Material"
 #. psk\export\operators.py:179
 msgid "PSK export successful"
 msgstr "PSK export successful"
+
+#. psk\export\operators.py:176
+msgid "PSK export successful with {warning_count} warnings"
+msgstr "PSK export successful with {warning_count} warnings"
 
 #. psk\import_\operators.py:131
 msgid "PSK imported ({name})"
@@ -456,6 +523,14 @@ msgstr "Reversed"
 msgid "Root Motion"
 msgstr "Root Motion"
 
+#. helpers.py:159
+msgid ""
+"Root bone \"{root_bone_name}\" was included because {bone_name} was marked "
+"for export"
+msgstr ""
+"Root bone \"{root_bone_name}\" was included because {bone_name} was marked "
+"for export"
+
 #. psa\export\operators.py:442
 msgid "Select All"
 msgstr "Select All"
@@ -479,6 +554,10 @@ msgstr "Select all visible sequences"
 #. psa\import_\operators.py:18
 msgid "Select sequences by name from text list"
 msgstr "Select sequences by name from text list"
+
+#. psk\builder.py:32
+msgid "Selected object \"{object_name}\" is not a mesh"
+msgstr "Selected object \"{object_name}\" is not a mesh"
 
 #. psa\export\operators.py:114
 msgid "Selected object must be an Armature"
@@ -549,6 +628,24 @@ msgstr ""
 #. psa\import_\operators.py:138
 msgid "The active object must be an armature"
 msgstr "The active object must be an armature"
+
+#. psa\importer.py:168
+msgid ""
+"The armature '{armature_name}' is missing {count} bones that exist in the PSA:\n"
+"{missing_bone_names}"
+msgstr ""
+"The armature '{armature_name}' is missing {count} bones that exist in the PSA:\n"
+"{missing_bone_names}"
+
+#. helpers.py:82
+msgid ""
+"The following bone names are invalid: {invalid_bone_names}.\n"
+"Bone names must only contain letters, numbers, spaces, hyphens and underscores.\n"
+"You can bypass this by disabling \"Enforce Bone Name Restrictions\" in the export settings."
+msgstr ""
+"The following bone names are invalid: {invalid_bone_names}.\n"
+"Bone names must only contain letters, numbers, spaces, hyphens and underscores.\n"
+"You can bypass this by disabling \"Enforce Bone Name Restrictions\" in the export settings."
 
 #. types.py:24
 msgid "The frame rate of the exported sequence"
@@ -621,6 +718,14 @@ msgstr "Triangle Bit Flags"
 #. psk\properties.py:21
 msgid "Triangle Type"
 msgstr "Triangle Type"
+
+#. psa\reader.py:118
+msgid "Unhandled section \"{section_name}\" at position {position}"
+msgstr "Unhandled section \"{section_name}\" at position {position}"
+
+#. psa\export\operators.py:415
+msgid "Unhandled sequence source: {sequence_source}"
+msgstr "Unhandled sequence source: {sequence_source}"
 
 #. psk\properties.py:14
 msgid "Unlit"

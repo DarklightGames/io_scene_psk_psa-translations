@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-16 00:19+0000\n"
-"Last-Translator: AWS <noreply-mt-aws@weblate.org>\n"
+"PO-Revision-Date: 2024-03-19 07:52+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
-"io_scene_psk_psa/io_scene_psk_psa-po/ja/>\n"
+"io_scene_psk_psa/io_scene_psk_psa/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -88,7 +88,7 @@ msgid "Bone Collections"
 msgstr "ボーンコレクション"
 
 msgid "RemoveTracks"
-msgstr "[トラックを削除]"
+msgstr "トラックを削除"
 
 msgid "Enforce Bone Name Restrictions"
 msgstr "ボーン名制限を強制"
@@ -207,7 +207,7 @@ msgid "Convert to Samples"
 msgstr "サンプルに変換"
 
 msgid "Source"
-msgstr "[ソース]"
+msgstr "ソース"
 
 msgid "Import vertex normals, if available"
 msgstr "頂点法線 (可能な場合) をインポートする"
@@ -363,7 +363,7 @@ msgstr "シーケンス名「{name}」には、Windows-1252 "
 "コードページではエンコードできない文字が含まれています"
 
 msgid "Export"
-msgstr "[エクスポート]"
+msgstr "エクスポート"
 
 msgid "No sequences selected"
 msgstr "シーケンスが選択されていません"
@@ -400,7 +400,7 @@ msgid "Each sequence name should be on a new line"
 msgstr "各シーケンス名は新しい行にする必要があります"
 
 msgid "Select All"
-msgstr "[すべて選択]"
+msgstr "すべて選択"
 
 msgid "Import Shape Keys"
 msgstr "シェイプキーをインポート"
